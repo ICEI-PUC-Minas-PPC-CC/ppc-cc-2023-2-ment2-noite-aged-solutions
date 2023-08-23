@@ -6,10 +6,10 @@
 
 ## Integrantes
 
+- Caio Rezende
+- Felipe Avalon
 - Gabriel Leite
 - Gustavo Silvio
-- Caio Rezendo
-- Felipe Avalon
 - Luis Otavio Albergoni
 
 ## Professor
