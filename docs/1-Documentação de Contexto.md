@@ -1,9 +1,8 @@
 # Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O contexto para do nosso projeto se resume em prevenção de quedas, que podem acontecer com qualquer grupo, mas especialmente aos idosos. Nosso foco será reduzir as quedas de idosos ao levantarem de sua cama durante a noite.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+Buscaremos não resolver, mas minimizar o número de quedas de Idosos, ao levantarem de se sua cama durante a noite.
 
 O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
