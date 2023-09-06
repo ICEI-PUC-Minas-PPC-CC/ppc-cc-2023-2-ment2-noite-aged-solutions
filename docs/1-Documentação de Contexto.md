@@ -4,16 +4,15 @@ O contexto para do nosso projeto se resume em prevenção de quedas, que podem a
 ## Problema
 É muito comum hoje em dia alguns idosos esquecerem de tomar seus remedios por ter algum tipo de doença fisica, motora ou mental, fazendo assim com que o indice de idosos que não tomam seus remedios em seus respectivos horarios aumente.
 > **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> - [Difuculdades dos idosos em tomar seus remedios](https://www.scielo.br/j/rbepid/a/fsM3pN6YmXXWLXhgM5MBZMh/)
+> - [Envelhecimentos e Medicamentos](https://www.msdmanuals.com/pt-br/casa/quest%C3%B5es-sobre-a-sa%C3%BAde-de-pessoas-idosas/envelhecimento-e-medicamentos/envelhecimento-e-medicamentos)
+
 
 ## Objetivos
 
 Para resolver o problema acima , uma implementação de hardware e software seria bem eficiente, pois poderia trazer uma ajuda imensa para os cuidadores, familiares e para os próprios idosos.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
