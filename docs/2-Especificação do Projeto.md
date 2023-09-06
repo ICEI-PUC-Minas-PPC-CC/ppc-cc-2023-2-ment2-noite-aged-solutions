@@ -13,6 +13,11 @@ Exemplo:
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-aged-solutions/blob/main/docs/img/Gaspar.png" width="200" height="200"/>|**Idade:** 72 anos. **Naturalidade:** Itajubá - Minas Gerais. **Ocupação:** Aposentado.       |**Atribuições:** Atualmente nenhuma
 |**Motivações:** Deseja prevenir o esquecimento ao tomar seus remédios regularmente.  |**Frustações:** Ingeriu uma dose dobrada de um remédio forte, causando complicações e levando-o urgentemente ao hospital.   |**Hobbies, história:** busca uma forma de tomar seus remédios de regularmente, pois tem tido problemas de esquecimento, ocasionando grande procupação na família por conta da pioras em seus quadros de saúde.
 
+|**Giselle Pontes**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-aged-solutions/blob/main/docs/img/Giselle.png" width="200" height="200"/>|**Idade:** 68 anos. **Naturalidade:** São Paulo - São Paulo. **Ocupação:** Costureira Aposentada.=       |**Atribuições:** Acabamentos em vestidos de noivado.
+|**Motivações:** Deseja tomar os seus remédios de pressão regularmente sem a preocupação do esquecimento.  |**Frustações:** Esqueceu de tomar seu principal remédio ocasionando um desmaio.   |**Hobbies, história:** Procura evitar a repetição do desastre de ter desmaiado por conta do esquecimento de seu remédio de pressão.
+
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
@@ -21,7 +26,7 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Gaspar Donizette | MelhoraR a gerência de medicamentos| Garantir qualidade de vida. |
+|Gaspar Donizette | Melhorar a gerência de medicamentos| Garantir qualidade de vida. |
 |Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
