@@ -13,20 +13,6 @@ Exemplo:
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-aged-solutions/blob/main/docs/img/Gaspar.png" width="200" height="200"/>|**Idade:** 72 anos. **Naturalidade:** Itajubá - Minas Gerais. **Ocupação:** Aposentado.       |**Atribuições:** Atualmente nenhuma
 |**Motivações:** Deseja prevenir o esquecimento ao tomar seus remédios regularmente.  |**Frustações:** Ingeriu uma dose dobrada de um remédio forte, causando complicações e levando-o urgentemente ao hospital.   |**Hobbies, história:** busca uma forma de tomar seus remédios de regularmente, pois tem tido problemas de esquecimento, ocasionando grande procupação na família por conta da pioras em seus quadros de saúde.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
-
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
