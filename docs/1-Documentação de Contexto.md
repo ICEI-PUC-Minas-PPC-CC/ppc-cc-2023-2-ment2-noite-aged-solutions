@@ -30,9 +30,7 @@ Os objetivos específicos são projetar um abajur que funciona por sensor de pre
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+A motivação para abordar o tema vem da pesquisa BOLETIM TEMÁTICO DA BIBLIOTECA DO MINISTÉRIO DA SAÚDE realizada em outubro de 2022 que relata "As projeções apontam que, em 2030, o número de pessoas idosas superará o de crianças e adolescentes de 0 a 14 anos em aproximadamente 2,28 milhões." e identifica que "Em 2050, a população idosa representará cerca de 30% da população brasileira". E a partir desse crescimento, nasce a necessidade de apoiar e desenvolver soluções que ajudem o público.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
