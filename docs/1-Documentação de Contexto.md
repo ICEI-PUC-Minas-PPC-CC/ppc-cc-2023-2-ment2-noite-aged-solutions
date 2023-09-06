@@ -5,7 +5,7 @@ O contexto para do nosso projeto se resume em prevenção de quedas, que podem a
 É muito comum hoje em dia alguns idosos esquecerem de tomar seus remedios por ter algum tipo de doença fisica, motora ou mental, fazendo assim com que o indice de idosos que não tomam seus remedios em seus respectivos horarios aumente.
 > **Links Úteis**:
 > - [Difuculdades dos idosos em tomar seus remedios](https://www.scielo.br/j/rbepid/a/fsM3pN6YmXXWLXhgM5MBZMh/)
-> - [Envelhecimentos e Medicamentos](https://www.msdmanuals.com/pt-br/casa/quest%C3%B5es-sobre-a-sa%C3%BAde-de-pessoas-idosas/envelhecimento-e-medicamentos/envelhecimento-e-medicamentos)
+> - [Envelhecimento e Medicamentos](https://www.msdmanuals.com/pt-br/casa/quest%C3%B5es-sobre-a-sa%C3%BAde-de-pessoas-idosas/envelhecimento-e-medicamentos/envelhecimento-e-medicamentos)
 
 
 ## Objetivos
