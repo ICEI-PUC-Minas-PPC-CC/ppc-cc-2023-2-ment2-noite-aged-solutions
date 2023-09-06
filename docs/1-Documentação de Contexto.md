@@ -10,7 +10,7 @@ O contexto para do nosso projeto se resume em prevenção de quedas, que podem a
 
 ## Objetivos
 
-Para resolver o problema acima , uma implementação de hardware e software seria bem eficiente, pois poderia trazer uma ajuda imensa para os cuidadores e familiares e para os próprios idosos.
+Para resolver o problema acima , uma implementação de hardware e software seria bem eficiente, pois poderia trazer uma ajuda imensa para os cuidadores, familiares e para os próprios idosos.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
