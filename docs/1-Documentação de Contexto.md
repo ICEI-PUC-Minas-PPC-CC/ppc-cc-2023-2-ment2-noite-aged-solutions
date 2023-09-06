@@ -13,17 +13,7 @@ O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, qu
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
-
-Garantir maior longevidade e qualidade de vida aos idosos.
-
-O objetivo desse trabalho é achar meios de minimizar a possibilidade de acidentes que envolvem pessoas da terceira idade. 
-
-Um dos problemas que aumentam a possibilidade de um acidente ocorrer é o caso da falta de luz de noite, o simples fato de levantar para ligar a luz pode por em risco a pessoa por causa de fatores como a falta de visão clara e a indesponibilidade imediata de alguém nesse horário. O objetivo e(descontinuado)
-
-Os objetivos específicos são projetar um abajur que funciona por sensor de presença, achar os componentes correspondentes, e testar a sua funcionalidade e sua utilidade com o publico-alvo.
+Para resolver o problema acima , uma implementação de hardware e software seria bem eficiente, pois poderia trazer uma ajuda imensa para os cuidadores e familiares dos idosos.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
