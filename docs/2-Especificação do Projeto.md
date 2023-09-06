@@ -10,8 +10,8 @@ Exemplo:
 
 |**Gaspar Donizete**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-aged-solutions/blob/main/docs/img/Gaspar.png" width="200" height="200"/>|**Idade:** 69 anos. **Naturalidade:** Itajubá - Minas Gerais. **Ocupação:** Aposentado.       |**Atribuições:** Atualmente nenhuma
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-aged-solutions/blob/main/docs/img/Gaspar.png" width="200" height="200"/>|**Idade:** 72 anos. **Naturalidade:** Itajubá - Minas Gerais. **Ocupação:** Aposentado.       |**Atribuições:** Atualmente nenhuma
+|**Motivações:** Deseja prevenir o esquecimento ao tomar seus remédios regularmente.  |**Frustações:** Ingeriu uma dose dobrada de um remédio forte, causando complicações e levando-o urgentemente ao hospital.   |**Hobbies, história:** busca uma forma de tomar seus remédios de regularmente, pois tem tido problemas de esquecimento, ocasionando grande procupação na família por conta da pioras em seus quadros de saúde.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
