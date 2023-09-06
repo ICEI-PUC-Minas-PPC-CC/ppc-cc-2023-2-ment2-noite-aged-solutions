@@ -2,10 +2,7 @@
 O contexto para do nosso projeto se resume em prevenção de quedas, que podem acontecer com qualquer grupo, mas especialmente aos idosos. Nosso foco será reduzir as quedas de idosos ao levantarem de sua cama durante a noite.
 
 ## Problema
-Buscaremos não resolver, mas minimizar o número de quedas de Idosos, ao levantarem de se sua cama durante a noite.
-
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
+É muito comum hoje em dia alguns idosos esquecerem de tomar seus remedios por ter algum tipo de doença fisica, motora ou mental, fazendo assim com que o indice de idosos que não tomam seus remedios em seus respectivos horarios aumente.
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
