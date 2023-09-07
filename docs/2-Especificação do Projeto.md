@@ -18,6 +18,11 @@ Exemplo:
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-aged-solutions/blob/main/docs/img/Giselle.png" width="200" height="200"/>|**Idade:** 68 anos. **Naturalidade:** São Paulo - São Paulo. **Ocupação:** Costureira Aposentada.=       |**Atribuições:** Acabamentos em vestidos de noivado.
 |**Motivações:** Deseja tomar os seus remédios de pressão regularmente sem a preocupação do esquecimento.  |**Frustações:** Esqueceu de tomar seu principal remédio ocasionando um desmaio.   |**Hobbies, história:** Procura evitar a repetição do desastre de ter desmaiado por conta do esquecimento de seu remédio de pressão.
 
+|**Maurilio de Almeida**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-aged-solutions/blob/main/docs/img/maurilio.jpg" width="200" height="200"/>|**Idade:** 68 anos. **Naturalidade:** Monte Verde - Minas Gerais. **Ocupação:** Aposentado.       |**Atribuições:** Nenhuma.
+|**Motivações:** Deseja tomar os seus remédios corretamente sem a chance de confundir ou misturar eles.  |**Frustações:** Confundiu um remédio com o outro e acabou ingerindo um remédio de forma errada.   |**Hobbies, história:** Maurilio sempre teve problemas com a vista apesar de usar oculos regularmente, e agora com os problemas de esquecimento tipicos da terceira idade, está mais difícil de usa-los corretamente.
+
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
@@ -27,7 +32,8 @@ Exemplo:
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Gaspar Donizette | Melhorar a gerência de medicamentos| Garantir qualidade de vida. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Giselle Pontes | Tomar meus remédios sem preucupação de esquecer | Evitar situações de esquecimento. |
+|Maurilio de Almeida | Maior certeza na hora de tomar os remedios | Diminuir as chances de haver confusão. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
