@@ -2,6 +2,8 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-aged-solutions/assets/90779083/bb32c50d-3b7e-4e12-ba04-ea91a235a5d4)
 
+Tabela -> https://docs.google.com/spreadsheets/d/1YI8ELMFvQsrhMKUHNcXj_p6_UioBLzhoF9u-dKEg5fY/edit?usp=sharing
+
 Arduino -> https://www.amazon.com.br/Mega-2560-R3-Ch340-Compat%C3%ADvel/dp/B0BT26K4JN/ref=asc_df_B0BT26K4JN/?tag=googleshopp00-20&linkCode=df0&hvadid=647506789851&hvpos=&hvnetw=g&hvrand=8544717106741142616&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9101232&hvtargid=pla-2016211673944&psc=1
 
 ESP-32 -> https://produto.mercadolivre.com.br/MLB-3206873877-esp32-38-pinos-wifi-bluetooth-esp-32-wroom-32-cp2102-ams1117-_JM?matt_tool=63064967&matt_word=&matt_source=google&matt_campaign_id=14303413826&matt_ad_group_id=133431076203&matt_match_type=&matt_network=g&matt_device=c&matt_creative=584156655540&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=519096142&matt_product_id=MLB3206873877&matt_product_partition_id=310365260760&matt_target_id=pla-310365260760&gclid=EAIaIQobChMI3qacs8XJgQMVX5jCCB2ydQldEAQYBCABEgIzb_D_BwE
