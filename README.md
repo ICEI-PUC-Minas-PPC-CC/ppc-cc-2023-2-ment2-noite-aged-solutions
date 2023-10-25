@@ -32,5 +32,11 @@
 
 # Código
 
+https://x.thunkable.com/copy/764010cf1eab9f006a3b11d82f61a8a4 (Link do Aplicativo em Desenvolvimento)
+
+# TinkerCad
+https://www.tinkercad.com/things/2kb2dB5G3tz-incredible-duup-elzing/edit (Projeto no TinkerCad)
+
+
 <li><a href="src/README.md"> Código Fonte</a></li>
 
