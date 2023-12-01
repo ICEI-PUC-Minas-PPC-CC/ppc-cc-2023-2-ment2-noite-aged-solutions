@@ -31,7 +31,7 @@
 | ETAPA 8 | Atualização do portfólio
 
 # Código
-
+https://x.thunkable.com/copy/02fb646e9fd3ecd77f0f0e3953da41d1 (Link Atualizações do Aplicativo em Desenvolvimento)
 https://x.thunkable.com/copy/764010cf1eab9f006a3b11d82f61a8a4 (Link do Aplicativo em Desenvolvimento)
 
 # TinkerCad
