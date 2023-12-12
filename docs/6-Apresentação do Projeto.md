@@ -11,3 +11,4 @@ Projeto Dispenser
 ## Pitch de apresentação
 
 - Link Vídeo do Grupo: https://youtu.be/-lZUBQi4V38
+- Link Vídeo de Desenvolvimento: https://youtu.be/trPD91fY_y0
